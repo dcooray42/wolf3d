@@ -107,6 +107,9 @@ veuillez changer par avance la configuration de votre clavier.
 * Minilibx - License BSD: Copyright Olivier Crouzet - 2014
 * FMOD - End User Licence Agreement (EULA)
 
+## Note
+125/100
+
 ## Auteur
 
 * **Dimitri Cooray** - [Lien vers github](https://github.com/konamifox)
