@@ -2,8 +2,7 @@
 
 Troisième projet de la branche graphique en parallèle de RTv1 de l'école 42.
 
-Pour ce projet, il faut recoder un labyrinthe grâce à la méthode raycasting grâce au fichier de description de scène passé en 
-paramètre.
+Pour ce projet, il faut recoder un labyrinthe grâce à la méthode raycasting grâce au fichier de description de scène passé en paramètre.
 
 Voici les bonus qui sont gérés par ce programme :
 * Texture sur les murs, sol et ciel
@@ -40,11 +39,13 @@ Se placer dans le dossier dans lequel vous avez fait la copie des fichiers sourc
 ```
 make
 ```
+
 Plusieurs fichiers .o auront fait leur apparitions dans le dossier que vous avez cloné ainsi que le binaire
 
 ```
 wolf3d
 ```
+
 ### Suppression
 
 Pour supprimer les fichiers objets .o généré lors de la création du programme
