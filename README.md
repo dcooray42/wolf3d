@@ -97,7 +97,7 @@ veuillez changer par avance la configuration de votre clavier.
 | ESC    | Quitter          |
 
 #### Exemple
-![alt text](https://raw.githubusercontent.com/konamifox/photo/master/wolf3d_1.jpeg?token=AT6ePOWbEoZxrL8Y1KHVuOvqDCKggqKGks5ace-6wA%3D%3D)
+![alt text](https://raw.githubusercontent.com/konamifox/wolf3d/master/photo/wolf3d.jpeg)
 
 ## Compiler avec
 * Minilibx - Librairie graphique
