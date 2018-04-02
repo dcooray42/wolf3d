@@ -29,7 +29,7 @@ macOS Sierra
 Ce que vous devez faire pour télécharger les fichiers sources afin de pouvoir les compiler par la suite
 
 ```
-git clone https://github.com/konamifox/wolf3d.git [nom du PATH/dossier]
+git clone https://github.com/dcooray42/wolf3d.git [nom du PATH/dossier]
 ```
 
 ### Installation
@@ -97,7 +97,7 @@ veuillez changer par avance la configuration de votre clavier.
 | ESC    | Quitter          |
 
 #### Exemple
-![alt text](https://raw.githubusercontent.com/konamifox/wolf3d/master/photo/wolf3d.jpeg)
+![alt text](https://raw.githubusercontent.com/dcooray42/wolf3d/master/photo/wolf3d.jpeg)
 
 ## Compiler avec
 * Minilibx - Librairie graphique
@@ -112,4 +112,4 @@ veuillez changer par avance la configuration de votre clavier.
 
 ## Auteur
 
-* **Dimitri Cooray** - [Lien vers github](https://github.com/konamifox)
+* **Dimitri Cooray** - [Lien vers github](https://github.com/dcooray42)
